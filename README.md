@@ -24,7 +24,7 @@ apt install git -y
 
 pip install requests
 
-git clone https://github.com/Stefy12342/genmail1
+git clone https://github.com/Davogv/Sdominio
 
 ```
 
